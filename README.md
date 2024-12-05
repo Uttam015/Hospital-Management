@@ -1,7 +1,7 @@
 # HospitalManagementSysyem
 Hospital management system project in java using JSP, servlet, Mysql, and eclipse. Its using java as core technology and Mysql as backend to manage the data records. The application is following the MVC architecture with maven tool. HMS is a web application which is a help to manage the activity of an hospital Like Patient management, Doctor management, Manage appointments. Manage the records of patients.
 
-Know more about in details  [MyBlog](https://www.inaminutes.com/how-can-i-import-a-git-repository-into-eclipse-ide/)
+
 
 The main objective to develop Hospital management system in java is to manage the hospital activity online.
 
@@ -10,9 +10,6 @@ There will be Three main Actors or Users of the application
 2. Admin 
 3. Receptionist.
 
-There are three main actors of the system who going to manage or run the complete application. Let’s discuss one by one according to the role and readabilities.
-
-# Modules
 
 ## Admin 
    Admin is the main actor who will be responsible for managing Doctors and Receptionists. Below is the task list which will be performed by admin.
@@ -44,12 +41,7 @@ Technology used in the Hospital Management System project in java
 * Back-end: MYSQL.
 * Server: Tomcat 8.5.
 
-## Want to Contribute?
-- Created something awesome, made this code better, added some functionality, or whatever (this is the hardest part).
-- [Fork it](http://help.github.com/forking/).
-- Create new branch to contribute your changes.
-- Commit all your changes to your branch.
-- Submit a [pull request](http://help.github.com/pull-requests/).
+
 
 Screenshot:
 
